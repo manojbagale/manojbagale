@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on **https://blog.manojbagale.com.np/**
 
-- 💬 Ask me about **Software Development.**
+- 💬 Ask me about **Software/Web Development.**
 
 - 📫 How to reach me **mbagale20@my.fisk.edu**
 
