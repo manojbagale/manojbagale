@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am not funny.**
 
-<h3 align="left">Connect with me: **linkedin.com/in/manojbagale**</h3>
+<h3 align="left">Connect with me: linkedin.com/in/manojbagale</h3>
 <p align="left">
 </p>
 
