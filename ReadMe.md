@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++.**
 
-- 📝 I regularly write articles on blog.manojbagale.com.np
+- 📝 I regularly write articles on **blog.manojbagale.com.np**
 
 - 💬 Ask me about **Software Development.**
 
