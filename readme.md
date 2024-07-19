@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **creating my portfolio website.**
 
-- 🌱 I’m currently learning **C++.**
+- 🌱 I’m currently learning **Python and C++.**
 
 - 📝 I regularly write articles on **https://blog.manojbagale.com.np/**
 
