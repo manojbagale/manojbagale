@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Manoj Bagale.</h1>
 <h3 align="center">CS Student @Fisk | Founder, NEPOS Foundation</h3>
 
-- 🔭 I’m currently working on **creating my portfolio website.**
+- 🔭 I’m currently working on **creating a Pantry Tracker.**
 
 - 🌱 I’m currently learning **Python and C++.**
 
