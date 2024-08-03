@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software/Web Development.**
 
-- 📫 How to reach me **mbagale20@my.fisk.edu**
+- 📫 How to reach me **manojbagale04@gmail.com**
 
 - ⚡ Fun fact **I am not funny.**
 
