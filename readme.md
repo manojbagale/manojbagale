@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **creating a Pantry Tracker.**
 
-- 🌱 I’m currently learning and revising **Python**
+- 🌱 I’m currently learning and revising **Python.**
 
 - 📝 I sometime write articles on **https://blog.manojbagale.com.np/**
 
