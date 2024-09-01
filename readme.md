@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **manojbagale04@gmail.com**
 
-- ⚡ Fun fact **I am not funny.**
+- ⚡ Something I love: **Football**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/manojbagale/ </h3>
 <p align="left">
