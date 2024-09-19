@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Manoj Bagale.</h1>
 <h3 align="center">CS & Math @ Fisk | Exploring Tech | Founder, NEPOS Foundation</h3>
 
-- 🔭 I’m currently working on **creating FiskVibe.**
+- 🔭 I’m currently working on creating **FiskVibe.**
 
 - 🌱 I’m currently learning and revising **Python.**
 
