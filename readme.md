@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and revising **Python.**
 
-- 📝 I sometime write articles on **https://blog.manojbagale.com.np/**
+- 📝 I sometime write articles on **https://manojbagale.blogspot.com/**
 
 - 💬 Ask me about **Software/Web Development.**
 
