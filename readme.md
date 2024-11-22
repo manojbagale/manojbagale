@@ -1,6 +1,3 @@
-<h1 align="center">Hello! I am Manoj Bagale.</h1>
-<h3 align="center">CS @ Fisk | Exploring Tech | Co-Founder, FiskVibe</h3>
-
 - 🔭 I’m currently working on creating **FiskVibe.**
 
 - 🌱 I’m currently learning and revising **Python.**
