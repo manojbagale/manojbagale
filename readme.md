@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on creating **FiskVibe.**
+- 🔭 I’m currently working on creating **FiskVibe (mobile app).**
 
-- 🌱 I’m currently learning and revising **Python.**
+- 🌱 I’m currently learning and revising **JavaScript.**
 
 - 📝 I sometime write articles on **https://manojbagale.blogspot.com/**
 
