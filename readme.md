@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on creating **FiskVibe (mobile app).**
+- 🔭 I’m currently working on creating **[my new project].**
 
-- 🌱 I’m currently learning and revising **JavaScript.**
+- 🌱 I’m currently learning and revising **Java.**
 
 - 📝 I sometime write articles on **https://manojbagale.blogspot.com/**
 
