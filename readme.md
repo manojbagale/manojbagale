@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on creating **[my new project].**
+- 🔭 I’m currently working on creating **PointSwap.**
 
 - 🌱 I’m currently learning and revising **Java.**
 
