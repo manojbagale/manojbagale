@@ -1,9 +1,3 @@
-- 🔭 I’m currently working on creating **PointSwap.**
-
-- 🌱 I’m currently learning and revising **Java.**
-
-- 📝 I sometime write articles on **https://manojbagale.blogspot.com/**
-
 - 💬 Ask me about **Software/Web Development.**
 
 - 📫 How to reach me **manojbagale04@gmail.com**
