@@ -1,6 +1,6 @@
 - 💬 Ask me about **Software/Web Development.**
 
-- 📫 How to reach me **manojbagale04@gmail.com**
+- 📫 How to reach me **mbagale20@my.fisk.edu**
 
 - ⚡ Something I love: **Football (Soccer)**
 
